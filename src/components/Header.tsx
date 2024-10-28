@@ -11,7 +11,7 @@ export default function Header() {
             Parthasarathy G
           </h1>
           <p className="text-xl md:text-2xl text-blue-200 mb-4 animate-slide-up">
-            Senior Frontend Developer
+            Team Lead
           </p>
           <p className="text-lg text-gray-300 mb-8 max-w-2xl mx-auto animate-slide-up delay-200">
             7+ years of experience in frontend development with expertise in
